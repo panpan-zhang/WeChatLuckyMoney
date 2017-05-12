@@ -49,3 +49,4 @@
 ### 应用截图
 ![wechatimg159](https://cloud.githubusercontent.com/assets/7262715/22361931/999cc8e0-e499-11e6-91ae-ce6973f722f0.png)
 ![wechatimg160](https://cloud.githubusercontent.com/assets/7262715/22361932/99b0181e-e499-11e6-8547-d366f9c4cfd9.jpeg)
+test pull request
